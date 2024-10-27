@@ -5,4 +5,4 @@ This learning technique will help you, as a programmer, get a deeper understandi
 
 This model started off at 28%, now it is at 46%.
 
-What changes I made to the project are given in the word document. I'll be adding more steps.
+What changes I made to the project are given in the [word document](./denied_onboarding.docx). I'll be adding more steps.
